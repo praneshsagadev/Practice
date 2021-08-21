@@ -28,6 +28,7 @@ package tasks;
 			// times");
 
 			System.out.println(stCh + " - " + finLength);
+			System.out.println(stCh + " - " + finLength);
 
 			// System.out.println(str);
 
