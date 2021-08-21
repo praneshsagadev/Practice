@@ -31,6 +31,8 @@ package tasks;
 			System.out.println(stCh + " - " + finLength);
 
 			// System.out.println(str);
+			// System.out.println(str);
+			// System.out.println(str);
 
 		}
 		// System.out.println(str.length());
